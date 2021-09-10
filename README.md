@@ -35,3 +35,9 @@
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhibhab&count_private=true&theme=radical&show_icons=true" />
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/abhibhab-mitra/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Abhibhab Mitra" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ig.hellgod/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ig.hellgod" height="50" width="50" /></a>
+</p>
+
