@@ -27,4 +27,9 @@
 - **Swimming**
 - **Coding**
 
-<img alt="Abhibhab's github stats" src="https://github-readme-stats.vercel.app/api?username=Abhibhab&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhibhab&label=Profile%20views&color=0e75b6&style=flat" alt="Abhibhab" /> </p>
+<p>
+<a align= "center" href="https://github.com/Abhibhab">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhibhab&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
