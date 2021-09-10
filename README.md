@@ -30,10 +30,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhibhab&label=Profile%20views&color=0e75b6&style=flat" alt="Abhibhab" /> </p>
 <p>
 <a align= "center" href="https://github.com/Abhibhab">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhibhab&theme=radical">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhibhab&theme=merko">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhibhab&count_private=true&theme=radical&show_icons=true" />
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhibhab&count_private=true&theme=merko&show_icons=true" />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
