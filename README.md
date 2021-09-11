@@ -31,7 +31,7 @@
 <p>
 <a align= "center" href="https://github.com/Abhibhab">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhibhab&theme=merko">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="350" width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472693nn7pyouqbz1woz25bshbujub88gtwtx6h1g7&rid=giphy.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhibhab&count_private=true&theme=merko&show_icons=true" />
 
