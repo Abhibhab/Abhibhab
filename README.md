@@ -35,11 +35,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibhab&theme=chartreuse-dark&layout=compact)
 
 ## Statistics 
-<p align="center">
+
 ![Abhibhab's github stats](https://github-readme-stats.vercel.app/api?username=Abhibhab&theme=blue-green) ![Abhibhab's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhibhab&theme=blue-green)
 
 ![Abhibhab's Contribution chart](https://activity-graph.herokuapp.com/graph?username=Abhibhab&theme=react-dark)
-  </p>
+ 
 
 <br>
 
