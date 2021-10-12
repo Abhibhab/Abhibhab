@@ -1,5 +1,5 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472693nn7pyouqbz1woz25bshbujub88gtwtx6h1g7&rid=giphy.gif" width="30px"></h2>
-<img align='right' src='https://github.com/Abhibhab/Abhibhab/blob/main/techstack.gif' width='200"'>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="" width="30px"></h2>
+<img align='right' src='https://github.com/Abhibhab/Abhibhab/blob/main/Hi.gif' width='200"'>
 
 [![GitHub followers](https://img.shields.io/github/followers/Abhibhab?label=Follow&style=social)](https://github.com/Abhibhab/?tab=followers)
 [![Mail Badge](https://img.shields.io/badge/-abhibhab2001@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:abhibhab2001@gmail.com)](mailto:abhibhab2001@gmail.com)
