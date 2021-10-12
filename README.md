@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://github.com/Abhibhab/Abhibhab/blob/main/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472693nn7pyouqbz1woz25bshbujub88gtwtx6h1g7&rid=giphy.gif" width="30px"></h2>
 <img align='right' src='https://github.com/Abhibhab/Abhibhab/blob/main/techstack.gif' width='200"'>
 
 [![GitHub followers](https://img.shields.io/github/followers/Abhibhab?label=Follow&style=social)](https://github.com/Abhibhab/?tab=followers)
@@ -28,12 +28,6 @@
 - **Coding**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhibhab&label=Profile%20views&color=0e75b6&style=flat" alt="Abhibhab" /> </p>
-<p>
-<a align= "center" href="https://github.com/Abhibhab">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhibhab&theme=merko">
-<img align="right" height="350" width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e472693nn7pyouqbz1woz25bshbujub88gtwtx6h1g7&rid=giphy.gif" /> </a>
-</p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhibhab&count_private=true&theme=merko&show_icons=true" />
 
 ## Most Used Languages
 
