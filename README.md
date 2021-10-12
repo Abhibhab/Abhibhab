@@ -35,6 +35,18 @@
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Abhibhab&count_private=true&theme=merko&show_icons=true" />
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhibhab&theme=chartreuse-dark&layout=compact)
+
+## Statistics 
+![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=Abhibhab&theme=blue-green) ![Raman's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhibhab&theme=blue-green)
+
+![Abhibhab's Contribution chart](https://activity-graph.herokuapp.com/graph?username=Abhibhab&theme=react-dark)
+
+<br>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/abhibhab-mitra/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Abhibhab Mitra" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
