@@ -49,5 +49,5 @@
 <a href="https://www.linkedin.com/in/abhibhab-mitra/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Abhibhab Mitra" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ig.hellgod/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="ig.hellgod" height="50" width="50" /></a>
 </p>
-![@abhibhab123's Holopin board](https://holopin.io/api/user/board?user=abhibhab123)](https://holopin.io/@abhibhab123)
+[![@abhibhab123's Holopin board](https://holopin.io/api/user/board?user=abhibhab123)](https://holopin.io/@abhibhab123)
 
