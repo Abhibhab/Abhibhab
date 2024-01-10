@@ -73,7 +73,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
-
+/*
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
-[![Abhibhab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhibhab&show_icons=true&theme=radical)]
+[![Abhibhab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhibhab&show_icons=true&theme=radical)] */
