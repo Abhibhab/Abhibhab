@@ -76,4 +76,4 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
-[![Abhibhab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhibhab)](https://github.com/abhibhab/github-readme-stats)
+[![Abhibhab's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhibhab)](https://github.com/abhibhab/github-readme-stats&theme=radical)
