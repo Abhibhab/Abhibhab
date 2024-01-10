@@ -1,59 +1,42 @@
-
 <h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Chetan.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Abhibhab.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
+  A passionate Full Stack Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
 
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=chetannada&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhibhab&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="./Assets/Banner v3.png" alt="Front End Developer Banner" />
+
 <br/>
 
-🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+🔭 I’m currently Coding Daily. <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
 🏫 I’m currently learning **Next js by doing Project**
 
 🔎 I’m looking to collaborate on **Open source Project**
 
-💻 All of my projects are available at **[My Portfolio](https://chetannada.netlify.app/)**
+💻 All of my projects are available at **[My Portfolio](abhibhab-inweb.vercel.app)**
 
-🌍 My Open Source Online Profile at **[BioDrop](https://www.biodrop.io/chetannada)**
-
-💬 Ask me about **Frontend Development**
+💬 Ask me about **FullStack Development**
 
 💗 Love to talk about **Research and Innovation!**
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 350+ DSA Problems at **[LeetCode](https://leetcode.com/chetannada/)**
-- 5🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/chetannada)**
+- Solved 400+ DSA Problems at **[LeetCode](https://leetcode.com/hellgod13/)**
 
-## 🏆 Achievement
 
-- 1.4k+ Stars 🌟🌟🌟🌟🌟 & 700+ Forks in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
-- Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
-- 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
-
-📫 How to reach me **call2chetannada@gmail.com**
-
-📄 Know about my experiences at my **[LinkedIn Profile](https://linkedin.com/in/chetannada)**
 
 ## 🔰 Let's Connect:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:call2chetannada@gmail.com)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhibhab-mitra-thakur-a399891b4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibhab2001@gmail.com)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MitraAbhibhab)
 
-## ‍🎃 Coding Profile:
-
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/chetannada)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/chetannada)
 
 ## ♨ Languages and Tools:
 
@@ -90,17 +73,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 
-## 🏆 Trophies:
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true" />
-
-## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
-
-<div align="center"><a href="https://github.com/chetannada/Namaste-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chetannada&repo=Namaste-React&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
-</a></div>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=chetannada&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=abhibhab&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
